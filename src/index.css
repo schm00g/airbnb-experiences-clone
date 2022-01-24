@@ -25,6 +25,10 @@ section {
   padding: 5%;
 }
 
+section.card {
+  padding-top: 0;
+}
+
 .hero {
   display: flex;
   flex-direction: column;

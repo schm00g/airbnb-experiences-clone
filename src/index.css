@@ -63,3 +63,10 @@ section.card {
 .gray {
   color: #918E9B;
 }
+
+.cards-list {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  overflow-x: auto;
+}
